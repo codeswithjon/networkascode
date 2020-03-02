@@ -1,0 +1,4 @@
+TriggerShutNoShutBgp:
+   source:
+     class: path.shutnoshut.ShutNoShutBgp
+   devices: ['csr1000v-1']
